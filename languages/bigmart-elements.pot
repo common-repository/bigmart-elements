@@ -1,0 +1,1384 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Bigmart Elements\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-24 11:08+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-5.9.3\n"
+"X-Domain: bigmart-elements"
+
+#. 1: Plugin name 2: Elementor
+#: bigmart-elements.php:194
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#. 1: Plugin name 2: Elementor 3: Required Elementor version
+#. 1: Plugin name 2: PHP 3: Required PHP version
+#: bigmart-elements.php:216 bigmart-elements.php:238
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: widgets/testimonial-slider.php:86
+msgid "0 Star"
+msgstr ""
+
+#: widgets/product-category-grid.php:91 widgets/product-category-tab.php:77
+#: inc/controls/groups/group-control-pquery.php:61
+msgid "1 Column"
+msgstr ""
+
+#: widgets/testimonial-slider.php:87
+msgid "1 Star"
+msgstr ""
+
+#: widgets/product-category-grid.php:92 widgets/product-category-tab.php:78
+#: inc/controls/groups/group-control-pquery.php:62
+msgid "2 Column"
+msgstr ""
+
+#: widgets/testimonial-slider.php:88
+msgid "2 Star"
+msgstr ""
+
+#: widgets/product-category-grid.php:93 widgets/product-category-tab.php:79
+#: inc/controls/groups/group-control-pquery.php:63
+msgid "3 Column"
+msgstr ""
+
+#: widgets/testimonial-slider.php:89
+msgid "3 Star"
+msgstr ""
+
+#: widgets/product-category-grid.php:94 widgets/product-category-tab.php:80
+#: inc/controls/groups/group-control-pquery.php:64
+msgid "4 Column"
+msgstr ""
+
+#: widgets/testimonial-slider.php:90
+msgid "4 Star"
+msgstr ""
+
+#: widgets/product-category-grid.php:95 widgets/product-category-tab.php:81
+#: inc/controls/groups/group-control-pquery.php:65
+msgid "5 Column"
+msgstr ""
+
+#: widgets/testimonial-slider.php:91
+msgid "5 Star"
+msgstr ""
+
+#: widgets/product-category-grid.php:96 widgets/product-category-tab.php:82
+#: inc/controls/groups/group-control-pquery.php:66
+msgid "6 Column"
+msgstr ""
+
+#: widgets/product-category-grid.php:343 widgets/product-category-tab.php:342
+#: widgets/product-tabs-grid.php:272
+msgid "Add to Cart"
+msgstr ""
+
+#: widgets/blog-grid1.php:139 widgets/blog-grid2.php:192 widgets/cta.php:105
+#: widgets/product-category-block1.php:154
+#: widgets/product-category-block2.php:180
+#: widgets/product-category-list.php:114 widgets/product-list.php:121
+msgid "Additional Settings"
+msgstr ""
+
+#: widgets/countdown.php:63
+msgid "Alignment"
+msgstr ""
+
+#: inc/helper.php:12
+msgid "All"
+msgstr ""
+
+#: inc/helper.php:82 widgets/product-category-grid.php:124
+#: widgets/product-category-list.php:104 widgets/product-category-tab.php:110
+#: widgets/product-list.php:111 inc/controls/groups/group-control-pquery.php:90
+msgid "Ascending"
+msgstr ""
+
+#: widgets/blog-grid2.php:367
+msgid "Author & Date"
+msgstr ""
+
+#: widgets/blog-grid1.php:321
+msgid "Author Text"
+msgstr ""
+
+#: widgets/product-category-list.php:133 widgets/product-list.php:140
+#: widgets/slider.php:150
+msgid "Auto"
+msgstr ""
+
+#: widgets/product-category-block1.php:186
+msgid "Background"
+msgstr ""
+
+#: widgets/blog-grid1.php:236 widgets/blog-grid1.php:366
+#: widgets/blog-grid2.php:300 widgets/blog-grid2.php:319
+#: widgets/countdown.php:281 widgets/countdown.php:321 widgets/cta.php:593
+#: widgets/cta.php:622 widgets/product-category-grid.php:217
+#: widgets/product-category-grid.php:312 widgets/product-category-tab.php:265
+#: widgets/product-category-tab.php:311 widgets/product-tabs-grid.php:195
+#: widgets/product-tabs-grid.php:241 widgets/slider.php:715
+#: widgets/slider.php:743 widgets/vertical-menu.php:90
+#: widgets/vertical-menu.php:174
+msgid "Background Color"
+msgstr ""
+
+#: widgets/cta.php:66
+msgid "Best Furniture To Buy in 2020"
+msgstr ""
+
+#: widgets/product-list.php:62 widgets/product-tabs-grid.php:315
+#: inc/controls/groups/group-control-pquery.php:28
+msgid "Best Selling"
+msgstr ""
+
+#. Name of the plugin
+#: bigmart-elements.php:194 bigmart-elements.php:216 bigmart-elements.php:238
+#: bigmart-elements.php:282
+msgid "Bigmart Elements"
+msgstr ""
+
+#: widgets/blog-grid1.php:19
+msgid "Blog Grid 1"
+msgstr ""
+
+#: widgets/blog-grid2.php:19
+msgid "Blog Grid 2"
+msgstr ""
+
+#: widgets/blog-grid1.php:173 widgets/blog-grid2.php:226
+msgid "Blog Spacing"
+msgstr ""
+
+#: widgets/testimonial-slider.php:109
+msgid "Blogger"
+msgstr ""
+
+#: widgets/slider.php:679
+msgid "Border"
+msgstr ""
+
+#: widgets/countdown.php:335
+msgid "Border Color"
+msgstr ""
+
+#: widgets/slider.php:686
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/slider.php:397
+msgid "Bottom"
+msgstr ""
+
+#: widgets/cta.php:143 widgets/slider.php:307
+msgid "Bottom Center"
+msgstr ""
+
+#: widgets/cta.php:142 widgets/slider.php:306
+msgid "Bottom Left"
+msgstr ""
+
+#: widgets/cta.php:144 widgets/slider.php:308
+msgid "Bottom Right"
+msgstr ""
+
+#: widgets/blog-grid1.php:301 widgets/blog-grid2.php:347
+#: widgets/blog-grid2.php:392 widgets/blog-grid2.php:447
+#: widgets/blog-grid2.php:492 widgets/product-category-grid.php:172
+#: widgets/product-category-list.php:264 widgets/product-category-tab.php:189
+#: widgets/product-list.php:271 widgets/product-tabs-grid.php:119
+#: widgets/slider.php:535 widgets/slider.php:587 widgets/slider.php:631
+msgid "Bottom Spacing"
+msgstr ""
+
+#: widgets/countdown.php:46
+msgid "Boxer"
+msgstr ""
+
+#: widgets/cta.php:116 widgets/cta.php:119
+msgid "Bubba"
+msgstr ""
+
+#: widgets/cta.php:519
+msgid "Button"
+msgstr ""
+
+#: widgets/slider.php:697
+msgid "Button Hover"
+msgstr ""
+
+#: widgets/cta.php:90
+msgid "Button Link"
+msgstr ""
+
+#: widgets/cta.php:81 widgets/slider.php:92
+msgid "Button Text"
+msgstr ""
+
+#: widgets/countdown.php:45
+msgid "Calender"
+msgstr ""
+
+#: widgets/cta.php:18
+msgid "Call To Action"
+msgstr ""
+
+#: widgets/slider.php:352
+msgid "Caption"
+msgstr ""
+
+#: widgets/slider.php:511
+msgid "Caption Content"
+msgstr ""
+
+#: widgets/slider.php:404
+msgid "Caption Horizontal Position"
+msgstr ""
+
+#: widgets/cta.php:151 widgets/slider.php:444
+msgid "Caption Offset"
+msgstr ""
+
+#: widgets/cta.php:208 widgets/slider.php:418
+msgid "Caption Text Alignment"
+msgstr ""
+
+#: widgets/slider.php:390
+msgid "Caption Vertical Position"
+msgstr ""
+
+#: widgets/slider.php:360
+msgid "Caption Width"
+msgstr ""
+
+#: widgets/testimonial-slider.php:121
+msgid "Carousel"
+msgstr ""
+
+#: widgets/product-category-block1.php:179
+msgid "Category Button"
+msgstr ""
+
+#: widgets/blog-grid1.php:229 widgets/blog-grid2.php:312
+#: widgets/product-category-block2.php:224
+msgid "Category Text"
+msgstr ""
+
+#: widgets/countdown.php:71 widgets/cta.php:216
+#: widgets/product-category-tab.php:126 widgets/product-tabs-grid.php:56
+#: widgets/slider.php:410 widgets/slider.php:426
+msgid "Center"
+msgstr ""
+
+#: widgets/cta.php:140 widgets/slider.php:304
+msgid "Center Center"
+msgstr ""
+
+#: widgets/cta.php:139 widgets/slider.php:303
+msgid "Center Left"
+msgstr ""
+
+#: widgets/cta.php:141 widgets/slider.php:305
+msgid "Center Right"
+msgstr ""
+
+#: widgets/cta.php:125
+msgid "Chico"
+msgstr ""
+
+#: widgets/product-category-tab.php:41
+msgid "Choose Categories for Tab"
+msgstr ""
+
+#: widgets/product-category-grid.php:56
+msgid "Choose Category"
+msgstr ""
+
+#: widgets/slider.php:54 widgets/testimonial-slider.php:45
+msgid "Choose Image"
+msgstr ""
+
+#: widgets/blog-grid1.php:77 widgets/blog-grid2.php:77
+msgid "Choose Posts"
+msgstr ""
+
+#: widgets/countdown.php:47
+msgid "Circular"
+msgstr ""
+
+#: widgets/testimonial-slider.php:55 widgets/testimonial-slider.php:236
+msgid "Client Name"
+msgstr ""
+
+#: widgets/blog-grid1.php:246 widgets/blog-grid1.php:273
+#: widgets/blog-grid1.php:328 widgets/blog-grid2.php:329
+#: widgets/blog-grid2.php:374 widgets/blog-grid2.php:419
+#: widgets/blog-grid2.php:474 widgets/blog-grid2.php:519
+#: widgets/countdown.php:271 widgets/countdown.php:311
+#: widgets/countdown.php:365 widgets/cta.php:458 widgets/cta.php:486
+#: widgets/cta.php:583 widgets/cta.php:612
+#: widgets/product-category-block2.php:258
+#: widgets/product-category-grid.php:150 widgets/product-category-grid.php:236
+#: widgets/product-category-grid.php:285 widgets/product-category-grid.php:323
+#: widgets/product-category-grid.php:350 widgets/product-category-list.php:242
+#: widgets/product-category-list.php:309 widgets/product-category-list.php:340
+#: widgets/product-category-list.php:389 widgets/product-category-tab.php:216
+#: widgets/product-category-tab.php:284 widgets/product-category-tab.php:322
+#: widgets/product-category-tab.php:349 widgets/product-list.php:249
+#: widgets/product-list.php:316 widgets/product-list.php:347
+#: widgets/product-list.php:396 widgets/product-tabs-grid.php:146
+#: widgets/product-tabs-grid.php:214 widgets/product-tabs-grid.php:252
+#: widgets/product-tabs-grid.php:279 widgets/slider.php:525
+#: widgets/slider.php:569 widgets/slider.php:613 widgets/slider.php:725
+#: widgets/slider.php:753 widgets/testimonial-slider.php:243
+#: widgets/testimonial-slider.php:270 widgets/testimonial-slider.php:316
+#: widgets/testimonial-slider.php:343 widgets/vertical-menu.php:100
+#: inc/controls/groups/group-control-header-style.php:25
+msgid "Color"
+msgstr ""
+
+#: inc/controls/groups/group-control-extra.php:21
+msgid "Color Scheme"
+msgstr ""
+
+#: widgets/product-category-block1.php:206
+msgid "Color(Hover)"
+msgstr ""
+
+#: widgets/product-category-grid.php:85 widgets/product-category-tab.php:71
+#: inc/controls/groups/group-control-pquery.php:54
+msgid "Column Layout"
+msgstr ""
+
+#: widgets/product-category-grid.php:113 widgets/product-category-list.php:93
+#: widgets/product-category-tab.php:99 widgets/product-list.php:100
+#: inc/controls/groups/group-control-pquery.php:81
+msgid "Comment Count"
+msgstr ""
+
+#: widgets/countdown.php:89 widgets/countdown.php:358
+msgid "Completion Message"
+msgstr ""
+
+#: widgets/blog-grid1.php:36 widgets/blog-grid2.php:36
+#: widgets/product-category-block1.php:38
+#: widgets/product-category-block2.php:38 widgets/product-category-grid.php:50
+#: widgets/product-category-list.php:50 widgets/product-category-tab.php:35
+#: widgets/product-list.php:50 widgets/product-tabs-grid.php:35
+#: widgets/slider.php:605 widgets/vertical-menu.php:37
+msgid "Content"
+msgstr ""
+
+#: widgets/blog-grid2.php:282
+msgid "Content Box"
+msgstr ""
+
+#: widgets/cta.php:132
+msgid "Content Position"
+msgstr ""
+
+#: widgets/countdown.php:16 widgets/countdown.php:34 widgets/countdown.php:101
+msgid "Countdown"
+msgstr ""
+
+#: widgets/countdown.php:55
+msgid "Countdown Date"
+msgstr ""
+
+#: widgets/countdown.php:304
+msgid "Counter"
+msgstr ""
+
+#: widgets/cta.php:36
+msgid "CTA"
+msgstr ""
+
+#: widgets/cta.php:155 widgets/product-category-list.php:134
+#: widgets/product-list.php:141 widgets/slider.php:152 widgets/slider.php:448
+msgid "Custom"
+msgstr ""
+
+#: inc/helper.php:68 widgets/product-category-grid.php:109
+#: widgets/product-category-list.php:89 widgets/product-category-tab.php:95
+#: widgets/product-list.php:96 inc/controls/groups/group-control-pquery.php:77
+msgid "Date"
+msgstr ""
+
+#: widgets/countdown.php:185
+msgid "Day Text"
+msgstr ""
+
+#: widgets/countdown.php:187 widgets/countdown.php:401
+msgid "Days"
+msgstr ""
+
+#: inc/helper.php:83 widgets/product-category-grid.php:125
+#: widgets/product-category-list.php:105 widgets/product-category-tab.php:111
+#: widgets/product-list.php:112 inc/controls/groups/group-control-pquery.php:91
+msgid "Descending"
+msgstr ""
+
+#: widgets/slider.php:82
+msgid "Description"
+msgstr ""
+
+#: widgets/testimonial-slider.php:64 widgets/testimonial-slider.php:309
+msgid "Designation"
+msgstr ""
+
+#: widgets/cta.php:83
+msgid "Discover Now"
+msgstr ""
+
+#: widgets/blog-grid1.php:43 widgets/blog-grid2.php:43
+msgid "Display Option"
+msgstr ""
+
+#: inc/helper.php:56
+msgid "Div"
+msgstr ""
+
+#: inc/controls/groups/group-control-header.php:47
+msgid "div"
+msgstr ""
+
+#: widgets/slider.php:85 widgets/slider.php:123 widgets/slider.php:128
+msgid ""
+"Donec pharetra malesuada leo. Aliquam risus lorem, volutpat eu interdum in"
+msgstr ""
+
+#: widgets/testimonial-slider.php:369
+msgid "Dots"
+msgstr ""
+
+#: widgets/product-category-tab.php:42
+#: inc/controls/groups/group-control-pquery.php:22
+msgid "Drag & Drop to reorder tabs"
+msgstr ""
+
+#: widgets/blog-grid1.php:78 widgets/blog-grid2.php:79
+msgid "Drag and Drop to Reorder"
+msgstr ""
+
+#: bigmart-elements.php:194 bigmart-elements.php:216
+msgid "Elementor"
+msgstr ""
+
+#. Description of the plugin
+msgid "Elementor blocks for Ecommerce Websites"
+msgstr ""
+
+#: widgets/vertical-menu.php:192
+msgid "Enable Menu Item Border"
+msgstr ""
+
+#: widgets/product-category-block2.php:187 widgets/slider.php:326
+msgid "Enable Overlay"
+msgstr ""
+
+#: widgets/blog-grid2.php:467
+msgid "Excerpt"
+msgstr ""
+
+#: widgets/blog-grid2.php:159
+msgid "Excerpt Length (Letters)"
+msgstr ""
+
+#: widgets/cta.php:56
+msgid "Exclusive 25% Discount"
+msgstr ""
+
+#: widgets/product-list.php:61 widgets/product-tabs-grid.php:314
+#: inc/controls/groups/group-control-pquery.php:27
+msgid "Featured"
+msgstr ""
+
+#: widgets/cta.php:275
+msgid "Frame"
+msgstr ""
+
+#: widgets/cta.php:386
+msgid "Frame Color"
+msgstr ""
+
+#: widgets/cta.php:361
+msgid "Frame Size"
+msgstr ""
+
+#: widgets/cta.php:286
+msgid "Frame Spacing"
+msgstr ""
+
+#: widgets/cta.php:336
+msgid "Frame Spacing (Horizontal)"
+msgstr ""
+
+#: widgets/cta.php:311
+msgid "Frame Spacing (Vertical)"
+msgstr ""
+
+#: widgets/slider.php:151
+msgid "Full"
+msgstr ""
+
+#: widgets/cta.php:268 widgets/slider.php:273
+msgid "General"
+msgstr ""
+
+#: inc/helper.php:49 inc/controls/groups/group-control-header.php:40
+msgid "H1"
+msgstr ""
+
+#: inc/helper.php:50 inc/controls/groups/group-control-header.php:41
+msgid "H2"
+msgstr ""
+
+#: inc/helper.php:51 inc/controls/groups/group-control-header.php:42
+msgid "H3"
+msgstr ""
+
+#: inc/helper.php:52 inc/controls/groups/group-control-header.php:43
+msgid "H4"
+msgstr ""
+
+#: inc/helper.php:53 inc/controls/groups/group-control-header.php:44
+msgid "H5"
+msgstr ""
+
+#: inc/helper.php:54 inc/controls/groups/group-control-header.php:45
+msgid "H6"
+msgstr ""
+
+#: widgets/product-category-grid.php:35 widgets/product-category-grid.php:42
+#: widgets/product-category-grid.php:143 widgets/product-category-list.php:35
+#: widgets/product-category-list.php:42 widgets/product-category-list.php:235
+#: widgets/product-list.php:35 widgets/product-list.php:42
+#: widgets/product-list.php:242
+msgid "Header"
+msgstr ""
+
+#: widgets/vertical-menu.php:44
+msgid "Heading"
+msgstr ""
+
+#: widgets/vertical-menu.php:52
+msgid "Heading Icon"
+msgstr ""
+
+#: widgets/vertical-menu.php:63
+msgid "Heading Tag"
+msgstr ""
+
+#: widgets/slider.php:159 widgets/testimonial-slider.php:190
+msgid "Height"
+msgstr ""
+
+#: widgets/product-category-list.php:163 widgets/product-list.php:170
+msgid "Height (px)"
+msgstr ""
+
+#: widgets/blog-grid1.php:118 widgets/blog-grid1.php:129
+#: widgets/blog-grid2.php:118 widgets/blog-grid2.php:129
+#: widgets/blog-grid2.php:140 widgets/blog-grid2.php:151
+#: inc/controls/groups/group-control-metas.php:23
+#: inc/controls/groups/group-control-metas.php:32
+#: inc/controls/groups/group-control-metas.php:41
+#: inc/controls/groups/group-control-metas.php:50
+msgid "Hide"
+msgstr ""
+
+#: widgets/cta.php:185 widgets/slider.php:482
+msgid "Horizontal"
+msgstr ""
+
+#: widgets/product-category-list.php:189 widgets/product-list.php:196
+msgid "Horizontal Gap"
+msgstr ""
+
+#: widgets/countdown.php:207
+msgid "Hour Text"
+msgstr ""
+
+#: widgets/countdown.php:209 widgets/countdown.php:402
+msgid "Hours"
+msgstr ""
+
+#: widgets/cta.php:427 widgets/cta.php:605
+msgid "Hover"
+msgstr ""
+
+#: widgets/blog-grid1.php:283 widgets/blog-grid2.php:429
+#: widgets/product-category-grid.php:246 widgets/product-category-grid.php:360
+#: widgets/product-category-list.php:350 widgets/product-category-tab.php:226
+#: widgets/product-category-tab.php:359 widgets/product-list.php:357
+#: widgets/product-tabs-grid.php:156 widgets/product-tabs-grid.php:289
+msgid "Hover Color"
+msgstr ""
+
+#: widgets/cta.php:112
+msgid "Hover Effect"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpcirqle.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wpcirqle.com/plugins/bigmart-elements/"
+msgstr ""
+
+#: widgets/slider.php:104
+msgid "https://your-link.com"
+msgstr ""
+
+#: widgets/vertical-menu.php:118
+msgid "Icon Size"
+msgstr ""
+
+#: widgets/vertical-menu.php:136
+msgid "Icon Spacing"
+msgstr ""
+
+#: inc/helper.php:71 widgets/product-category-grid.php:108
+#: widgets/product-category-list.php:88 widgets/product-category-tab.php:94
+#: widgets/product-list.php:95 inc/controls/groups/group-control-pquery.php:76
+msgid "ID"
+msgstr ""
+
+#: widgets/testimonial-slider.php:174
+msgid "Image"
+msgstr ""
+
+#: widgets/blog-grid1.php:196 widgets/blog-grid2.php:249 widgets/cta.php:244
+#: widgets/product-category-list.php:129 widgets/product-list.php:136
+msgid "Image Height"
+msgstr ""
+
+#: widgets/slider.php:296
+msgid "Image Position"
+msgstr ""
+
+#: widgets/blog-grid1.php:218 widgets/blog-grid2.php:271
+#: widgets/product-category-block1.php:161
+msgid "Image Size"
+msgstr ""
+
+#: widgets/testimonial-slider.php:57 widgets/testimonial-slider.php:103
+msgid "John Doe"
+msgstr ""
+
+#: widgets/testimonial-slider.php:105
+msgid "John Doe has to say something about the business."
+msgstr ""
+
+#: widgets/testimonial-slider.php:75
+msgid "John Doe has to say something about the co."
+msgstr ""
+
+#: widgets/countdown.php:264
+msgid "Label"
+msgstr ""
+
+#: widgets/product-list.php:60 widgets/product-tabs-grid.php:313
+#: inc/controls/groups/group-control-pquery.php:26
+msgid "Latest"
+msgstr ""
+
+#: widgets/blog-grid1.php:47 widgets/blog-grid2.php:47
+msgid "Latest Posts"
+msgstr ""
+
+#: widgets/cta.php:120
+msgid "Layla"
+msgstr ""
+
+#: widgets/countdown.php:41
+msgid "Layout"
+msgstr ""
+
+#: widgets/countdown.php:67 widgets/cta.php:212
+#: widgets/product-category-tab.php:122 widgets/product-tabs-grid.php:52
+#: widgets/slider.php:409 widgets/slider.php:422
+msgid "Left"
+msgstr ""
+
+#: widgets/cta.php:117
+msgid "Lily"
+msgstr ""
+
+#: widgets/slider.php:102 inc/controls/groups/group-control-header.php:26
+msgid "Link"
+msgstr ""
+
+#: widgets/testimonial-slider.php:66 widgets/testimonial-slider.php:104
+msgid "Managing Director"
+msgstr ""
+
+#: widgets/product-category-block2.php:276
+#: widgets/product-category-grid.php:264 widgets/product-category-list.php:319
+#: widgets/product-category-list.php:368 widgets/product-category-list.php:407
+#: widgets/product-category-tab.php:244 widgets/product-list.php:326
+#: widgets/product-list.php:375 widgets/product-list.php:414
+#: widgets/product-tabs-grid.php:174 widgets/testimonial-slider.php:288
+#: inc/controls/groups/group-control-header-style.php:37
+msgid "Margin"
+msgstr ""
+
+#: widgets/vertical-menu.php:46 widgets/vertical-menu.php:72
+msgid "Menu"
+msgstr ""
+
+#: widgets/vertical-menu.php:167
+msgid "Menu Box"
+msgstr ""
+
+#: widgets/vertical-menu.php:83
+msgid "Menu Heading"
+msgstr ""
+
+#: widgets/vertical-menu.php:203
+msgid "Menu Item Border Color"
+msgstr ""
+
+#: widgets/vertical-menu.php:256
+msgid "Menu Item Color"
+msgstr ""
+
+#: widgets/vertical-menu.php:284
+msgid "Menu Item Hover Background Color"
+msgstr ""
+
+#: widgets/vertical-menu.php:274
+msgid "Menu Item Hover Color"
+msgstr ""
+
+#: widgets/vertical-menu.php:217
+msgid "Menu Item Padding"
+msgstr ""
+
+#: widgets/vertical-menu.php:185
+msgid "Menu Item Typography"
+msgstr ""
+
+#: widgets/countdown.php:90
+msgid "Message to display after countdown complettion"
+msgstr ""
+
+#: widgets/slider.php:396
+msgid "Middle"
+msgstr ""
+
+#: widgets/cta.php:123
+msgid "Milo"
+msgstr ""
+
+#: widgets/countdown.php:229
+msgid "Minute Text"
+msgstr ""
+
+#: widgets/countdown.php:231 widgets/countdown.php:403
+msgid "Minutes"
+msgstr ""
+
+#: widgets/countdown.php:141
+msgid "Month Text"
+msgstr ""
+
+#: widgets/countdown.php:143 widgets/countdown.php:399
+msgid "Months"
+msgstr ""
+
+#: widgets/cta.php:152 widgets/slider.php:445
+msgid "Move caption horizontally and vertically from current position"
+msgstr ""
+
+#: inc/helper.php:70 widgets/product-category-grid.php:110
+#: widgets/product-category-list.php:90 widgets/product-category-tab.php:96
+#: widgets/product-list.php:97 inc/controls/groups/group-control-pquery.php:78
+msgid "Name"
+msgstr ""
+
+#: widgets/countdown.php:111 widgets/countdown.php:133
+#: widgets/countdown.php:155 widgets/countdown.php:177
+#: widgets/countdown.php:199 widgets/countdown.php:221
+#: widgets/countdown.php:243 widgets/product-category-block2.php:190
+#: widgets/slider.php:329 widgets/testimonial-slider.php:164
+#: widgets/vertical-menu.php:195
+msgid "No"
+msgstr ""
+
+#: widgets/blog-grid1.php:55 widgets/blog-grid2.php:55
+msgid "No. of Posts"
+msgstr ""
+
+#: widgets/product-category-grid.php:66 widgets/product-category-list.php:64
+#: widgets/product-category-tab.php:52 widgets/product-list.php:71
+#: inc/controls/groups/group-control-pquery.php:37
+msgid "No. of products"
+msgstr ""
+
+#: inc/helper.php:14 inc/helper.php:67 widgets/cta.php:154
+#: widgets/product-category-grid.php:107 widgets/product-category-list.php:87
+#: widgets/product-category-tab.php:93 widgets/product-list.php:94
+#: widgets/slider.php:447 inc/controls/groups/group-control-pquery.php:75
+msgid "None"
+msgstr ""
+
+#: widgets/cta.php:407 widgets/cta.php:577
+msgid "Normal"
+msgstr ""
+
+#: widgets/product-category-grid.php:305 widgets/product-category-tab.php:304
+#: widgets/product-tabs-grid.php:234
+msgid "On Sale"
+msgstr ""
+
+#: widgets/blog-grid1.php:103 widgets/blog-grid2.php:103
+#: widgets/product-category-grid.php:120 widgets/product-category-tab.php:106
+#: inc/controls/groups/group-control-pquery.php:86
+msgid "Order"
+msgstr ""
+
+#: widgets/blog-grid1.php:91 widgets/blog-grid2.php:91
+#: widgets/product-category-grid.php:103 widgets/product-category-list.php:83
+#: widgets/product-category-list.php:100 widgets/product-category-tab.php:89
+#: widgets/product-list.php:90 widgets/product-list.php:107
+#: inc/controls/groups/group-control-pquery.php:71
+msgid "Order By"
+msgstr ""
+
+#: widgets/cta.php:121
+msgid "Oscar"
+msgstr ""
+
+#: widgets/cta.php:413 widgets/cta.php:433 widgets/slider.php:318
+msgid "Overlay"
+msgstr ""
+
+#: widgets/product-category-block2.php:198 widgets/slider.php:337
+msgid "Overlay Color"
+msgstr ""
+
+#: widgets/blog-grid1.php:355 widgets/blog-grid2.php:289 widgets/cta.php:526
+#: widgets/product-category-grid.php:160 widgets/product-category-list.php:252
+#: widgets/product-list.php:259 widgets/slider.php:666
+#: widgets/vertical-menu.php:154
+msgid "Padding"
+msgstr ""
+
+#: bigmart-elements.php:238
+msgid "PHP"
+msgstr ""
+
+#: inc/controls/groups/group-control-metas.php:29
+msgid "Post Author"
+msgstr ""
+
+#: inc/controls/groups/group-control-metas.php:47
+msgid "Post Comments"
+msgstr ""
+
+#: inc/controls/groups/group-control-metas.php:38
+msgid "Post Date"
+msgstr ""
+
+#: inc/controls/groups/group-control-metas.php:20
+msgid "Post Meta"
+msgstr ""
+
+#: widgets/product-category-grid.php:278 widgets/product-category-list.php:382
+#: widgets/product-category-tab.php:277 widgets/product-list.php:389
+#: widgets/product-tabs-grid.php:207
+msgid "Price"
+msgstr ""
+
+#: widgets/product-category-grid.php:210 widgets/product-category-tab.php:258
+#: widgets/product-tabs-grid.php:188
+msgid "Product Box"
+msgstr ""
+
+#: widgets/product-category-list.php:56
+msgid "Product Category"
+msgstr ""
+
+#: widgets/product-category-grid.php:17
+msgid "Product Category Grid"
+msgstr ""
+
+#: widgets/product-category-block1.php:21
+msgid "Product Category Grid 1"
+msgstr ""
+
+#: widgets/product-category-block2.php:21
+msgid "Product Category Grid 2"
+msgstr ""
+
+#: widgets/product-category-list.php:17
+msgid "Product Category List"
+msgstr ""
+
+#: widgets/product-category-tab.php:17
+msgid "Product Category Tab"
+msgstr ""
+
+#: widgets/product-category-block2.php:251
+msgid "Product Count"
+msgstr ""
+
+#: widgets/product-list.php:17
+msgid "Product List"
+msgstr ""
+
+#: widgets/product-tabs-grid.php:17
+#: inc/controls/groups/group-control-pquery.php:21
+msgid "Product Tabs"
+msgstr ""
+
+#: widgets/product-category-grid.php:229 widgets/product-category-list.php:333
+#: widgets/product-category-tab.php:209 widgets/product-list.php:340
+#: widgets/product-tabs-grid.php:139
+msgid "Product Title"
+msgstr ""
+
+#: widgets/product-list.php:56
+msgid "Product Type"
+msgstr ""
+
+#: widgets/product-category-block2.php:357 widgets/product-tabs-grid.php:42
+msgid "Products"
+msgstr ""
+
+#: widgets/product-category-grid.php:112 widgets/product-category-list.php:92
+#: widgets/product-category-tab.php:98 widgets/product-list.php:99
+#: inc/controls/groups/group-control-pquery.php:80
+msgid "Random"
+msgstr ""
+
+#: widgets/product-category-list.php:302 widgets/product-list.php:309
+msgid "Rating"
+msgstr ""
+
+#: widgets/testimonial-slider.php:82
+msgid "Ratings"
+msgstr ""
+
+#: widgets/blog-grid2.php:183 widgets/slider.php:94 widgets/slider.php:651
+msgid "Read More"
+msgstr ""
+
+#: widgets/blog-grid2.php:512
+msgid "Readmore"
+msgstr ""
+
+#: widgets/blog-grid2.php:181
+msgid "Readmore Text"
+msgstr ""
+
+#: widgets/countdown.php:75 widgets/cta.php:220
+#: widgets/product-category-tab.php:130 widgets/product-tabs-grid.php:60
+#: widgets/slider.php:411 widgets/slider.php:430
+msgid "Right"
+msgstr ""
+
+#: widgets/cta.php:118
+msgid "Roxy"
+msgstr ""
+
+#: widgets/cta.php:122
+msgid "Ruby"
+msgstr ""
+
+#: widgets/product-list.php:63 widgets/product-tabs-grid.php:316
+#: inc/controls/groups/group-control-pquery.php:29
+msgid "Sale"
+msgstr ""
+
+#: widgets/countdown.php:92
+msgid "Sale Offer Expired"
+msgstr ""
+
+#: widgets/cta.php:124
+msgid "Sarah"
+msgstr ""
+
+#: widgets/testimonial-slider.php:108
+msgid "Sarah Doe"
+msgstr ""
+
+#: widgets/testimonial-slider.php:110
+msgid "Sarah has to say something about the business."
+msgstr ""
+
+#: widgets/countdown.php:253 widgets/countdown.php:404
+msgid "Seconds"
+msgstr ""
+
+#: widgets/countdown.php:251
+msgid "Seconds Text"
+msgstr ""
+
+#: widgets/vertical-menu.php:314
+msgid "Select a Menu"
+msgstr ""
+
+#: inc/helper.php:179 widgets/product-category-block1.php:52
+#: widgets/product-category-block1.php:79
+#: widgets/product-category-block1.php:106
+#: widgets/product-category-block1.php:133
+#: widgets/product-category-block2.php:52
+#: widgets/product-category-block2.php:79
+#: widgets/product-category-block2.php:106
+#: widgets/product-category-block2.php:133
+#: widgets/product-category-block2.php:160
+msgid "Select Category"
+msgstr ""
+
+#: inc/helper.php:217
+msgid "Select Product"
+msgstr ""
+
+#: widgets/product-category-block1.php:236
+#: widgets/product-category-block2.php:307
+msgid "Select Woocommerce Category"
+msgstr ""
+
+#: widgets/product-category-grid.php:198 widgets/product-category-list.php:290
+#: widgets/product-list.php:297
+msgid "Separator Color"
+msgstr ""
+
+#: widgets/slider.php:95
+msgid "Set Button Label text."
+msgstr ""
+
+#: widgets/countdown.php:430
+msgid "Set the valid countdown date"
+msgstr ""
+
+#: widgets/blog-grid1.php:117 widgets/blog-grid1.php:128
+#: widgets/blog-grid2.php:117 widgets/blog-grid2.php:128
+#: widgets/blog-grid2.php:139 widgets/blog-grid2.php:150
+#: inc/controls/groups/group-control-metas.php:22
+#: inc/controls/groups/group-control-metas.php:31
+#: inc/controls/groups/group-control-metas.php:40
+#: inc/controls/groups/group-control-metas.php:49
+msgid "Show"
+msgstr ""
+
+#: widgets/blog-grid1.php:126 widgets/blog-grid2.php:126
+msgid "Show Author"
+msgstr ""
+
+#: widgets/blog-grid1.php:115 widgets/blog-grid2.php:115
+msgid "Show Category"
+msgstr ""
+
+#: widgets/blog-grid2.php:137
+msgid "Show Date"
+msgstr ""
+
+#: widgets/countdown.php:174
+msgid "Show Day"
+msgstr ""
+
+#: widgets/testimonial-slider.php:161
+msgid "Show Dots"
+msgstr ""
+
+#: widgets/blog-grid2.php:148
+msgid "Show Excerpt"
+msgstr ""
+
+#: widgets/countdown.php:196
+msgid "Show Hour"
+msgstr ""
+
+#: widgets/countdown.php:218
+msgid "Show Minutes"
+msgstr ""
+
+#: widgets/countdown.php:130
+msgid "Show Month"
+msgstr ""
+
+#: widgets/countdown.php:240
+msgid "Show Seconds"
+msgstr ""
+
+#: widgets/countdown.php:152
+msgid "Show Week"
+msgstr ""
+
+#: widgets/countdown.php:108
+msgid "Show Year"
+msgstr ""
+
+#: widgets/countdown.php:48
+msgid "Simple"
+msgstr ""
+
+#: widgets/testimonial-slider.php:353
+msgid "Size"
+msgstr ""
+
+#: widgets/slider.php:146
+msgid "Slide Height "
+msgstr ""
+
+#: widgets/slider.php:23 widgets/slider.php:45
+msgid "Slider"
+msgstr ""
+
+#: widgets/slider.php:280
+msgid "Slider Image"
+msgstr ""
+
+#: widgets/slider.php:139
+msgid "Slider Settings"
+msgstr ""
+
+#: widgets/slider.php:66
+msgid "Slider Sub Title"
+msgstr ""
+
+#: widgets/slider.php:121
+msgid "Slider Sub Title 1"
+msgstr ""
+
+#: widgets/slider.php:126
+msgid "Slider Sub Title 2"
+msgstr ""
+
+#: widgets/slider.php:75
+msgid "Slider Title"
+msgstr ""
+
+#: widgets/slider.php:122
+msgid "Slider Title 1"
+msgstr ""
+
+#: widgets/slider.php:127
+msgid "Slider Title 2"
+msgstr ""
+
+#: widgets/slider.php:116
+msgid "Slides"
+msgstr ""
+
+#: widgets/testimonial-slider.php:212
+msgid "Spacing"
+msgstr ""
+
+#: inc/helper.php:55
+msgid "Span"
+msgstr ""
+
+#: inc/controls/groups/group-control-header.php:46
+msgid "span"
+msgstr ""
+
+#: widgets/blog-grid1.php:48 widgets/blog-grid2.php:48
+msgid "Specific Posts"
+msgstr ""
+
+#: widgets/testimonial-slider.php:336
+msgid "Star Ratings"
+msgstr ""
+
+#: widgets/vertical-menu.php:228
+msgid "Sub Menu Width"
+msgstr ""
+
+#: widgets/cta.php:53 widgets/cta.php:451 widgets/slider.php:64
+msgid "Sub Title"
+msgstr ""
+
+#: widgets/slider.php:518
+msgid "SubTitle"
+msgstr ""
+
+#: widgets/product-category-tab.php:152 widgets/product-tabs-grid.php:82
+msgid "Tabs"
+msgstr ""
+
+#: widgets/product-category-tab.php:118 widgets/product-tabs-grid.php:48
+msgid "Tabs Alignment"
+msgstr ""
+
+#: inc/controls/groups/group-control-header.php:37
+msgid "Tag"
+msgstr ""
+
+#: widgets/testimonial-slider.php:36
+msgid "Testimonial"
+msgstr ""
+
+#: widgets/testimonial-slider.php:17
+msgid "Testimonial Slider"
+msgstr ""
+
+#: widgets/testimonial-slider.php:98
+msgid "Testimonials"
+msgstr ""
+
+#: widgets/testimonial-slider.php:73 widgets/testimonial-slider.php:263
+msgid "Testimony"
+msgstr ""
+
+#: widgets/product-category-block1.php:196
+#: widgets/product-category-block2.php:231 widgets/product-category-tab.php:159
+#: widgets/product-tabs-grid.php:89
+msgid "Text Color"
+msgstr ""
+
+#: widgets/product-category-tab.php:170 widgets/product-tabs-grid.php:100
+msgid "Text Hover/Active Color"
+msgstr ""
+
+#: inc/helper.php:69 widgets/cta.php:62 widgets/cta.php:479
+#: widgets/product-category-grid.php:111 widgets/product-category-list.php:91
+#: widgets/product-category-tab.php:97 widgets/product-list.php:98
+#: widgets/slider.php:73 widgets/slider.php:561
+#: inc/controls/groups/group-control-header.php:20
+#: inc/controls/groups/group-control-pquery.php:79
+msgid "Title"
+msgstr ""
+
+#: widgets/blog-grid1.php:348
+msgid "Title Box"
+msgstr ""
+
+#: widgets/cta.php:72
+msgid "Title Tag"
+msgstr ""
+
+#: widgets/blog-grid1.php:266 widgets/blog-grid2.php:412
+msgid "Title Text"
+msgstr ""
+
+#: widgets/slider.php:395
+msgid "Top"
+msgstr ""
+
+#: widgets/cta.php:137 widgets/slider.php:301
+msgid "Top Center"
+msgstr ""
+
+#: widgets/cta.php:136 widgets/slider.php:300
+msgid "Top Left"
+msgstr ""
+
+#: widgets/product-list.php:64 widgets/product-tabs-grid.php:317
+#: inc/controls/groups/group-control-pquery.php:30
+msgid "Top Rated"
+msgstr ""
+
+#: widgets/cta.php:138 widgets/slider.php:302
+msgid "Top Right"
+msgstr ""
+
+#: widgets/slider.php:86
+msgid "Type your description here"
+msgstr ""
+
+#: widgets/blog-grid2.php:184
+msgid "Type your title here"
+msgstr ""
+
+#: widgets/blog-grid1.php:257 widgets/blog-grid1.php:294
+#: widgets/blog-grid1.php:339 widgets/blog-grid2.php:340
+#: widgets/blog-grid2.php:385 widgets/blog-grid2.php:440
+#: widgets/blog-grid2.php:485 widgets/blog-grid2.php:530
+#: widgets/countdown.php:295 widgets/countdown.php:349
+#: widgets/countdown.php:376 widgets/cta.php:470 widgets/cta.php:498
+#: widgets/cta.php:544 widgets/product-category-block1.php:217
+#: widgets/product-category-block2.php:242
+#: widgets/product-category-block2.php:269
+#: widgets/product-category-grid.php:191 widgets/product-category-grid.php:257
+#: widgets/product-category-grid.php:296 widgets/product-category-grid.php:334
+#: widgets/product-category-grid.php:371 widgets/product-category-list.php:283
+#: widgets/product-category-list.php:361 widgets/product-category-list.php:400
+#: widgets/product-category-tab.php:182 widgets/product-category-tab.php:237
+#: widgets/product-category-tab.php:295 widgets/product-category-tab.php:333
+#: widgets/product-category-tab.php:370 widgets/product-list.php:290
+#: widgets/product-list.php:368 widgets/product-list.php:407
+#: widgets/product-tabs-grid.php:112 widgets/product-tabs-grid.php:167
+#: widgets/product-tabs-grid.php:225 widgets/product-tabs-grid.php:263
+#: widgets/product-tabs-grid.php:300 widgets/slider.php:554
+#: widgets/slider.php:580 widgets/slider.php:624 widgets/slider.php:659
+#: widgets/testimonial-slider.php:254 widgets/testimonial-slider.php:281
+#: widgets/testimonial-slider.php:327 widgets/vertical-menu.php:111
+msgid "Typography"
+msgstr ""
+
+#: widgets/product-category-block1.php:61
+#: widgets/product-category-block1.php:88
+#: widgets/product-category-block1.php:115
+#: widgets/product-category-block1.php:142
+#: widgets/product-category-block2.php:61
+#: widgets/product-category-block2.php:88
+#: widgets/product-category-block2.php:115
+#: widgets/product-category-block2.php:142
+#: widgets/product-category-block2.php:168
+msgid "Upload Image"
+msgstr ""
+
+#: widgets/cta.php:164 widgets/slider.php:457
+msgid "Vertical"
+msgstr ""
+
+#: widgets/product-category-list.php:211 widgets/product-list.php:218
+msgid "Vertical Gap"
+msgstr ""
+
+#: widgets/vertical-menu.php:20
+msgid "Vertical Menu"
+msgstr ""
+
+#: widgets/countdown.php:163
+msgid "Week Text"
+msgstr ""
+
+#: widgets/countdown.php:165 widgets/countdown.php:400
+msgid "Weeks"
+msgstr ""
+
+#: widgets/product-category-list.php:141 widgets/product-list.php:148
+msgid "Width (px)"
+msgstr ""
+
+#. Author of the plugin
+msgid "wpcirqle"
+msgstr ""
+
+#: widgets/countdown.php:119
+msgid "Year Text"
+msgstr ""
+
+#: widgets/countdown.php:121 widgets/countdown.php:398
+msgid "Years"
+msgstr ""
+
+#: widgets/countdown.php:110 widgets/countdown.php:132
+#: widgets/countdown.php:154 widgets/countdown.php:176
+#: widgets/countdown.php:198 widgets/countdown.php:220
+#: widgets/countdown.php:242 widgets/product-category-block2.php:189
+#: widgets/slider.php:328 widgets/testimonial-slider.php:163
+#: widgets/vertical-menu.php:194
+msgid "Yes"
+msgstr ""

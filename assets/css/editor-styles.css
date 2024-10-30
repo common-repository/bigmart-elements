@@ -1,0 +1,13 @@
+.bm-elementor-pro-no #elementor-panel-category-pro-elements,
+.bm-elementor-pro-no #elementor-panel-category-theme-elements,
+.bm-elementor-pro-no #elementor-panel-category-woocommerce-elements,
+.bm-elementor-pro-no #elementor-panel-get-pro-elements,
+.bm-elementor-pro-no .elementor-control-dynamic-switcher,
+.bm-elementor-pro-no .elementor-control-section_custom_css_pro,
+.bm-elementor-pro-no .elementor-control-section_custom_attributes_pro,
+.bm-elementor-pro-no [data-tab="global"],
+.bm-elementor-pro-no .elementor-context-menu-list__group.elementor-context-menu-list__group-save,
+.bm-elementor-pro-no #elementor-icons-manager__upload,
+.bm-elementor-pro-no #elementor-notice-bar{
+    display: none !important;
+}
